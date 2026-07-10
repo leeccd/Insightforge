@@ -1,0 +1,11 @@
+[theme]
+# A professional, deep dark background
+backgroundColor="#0E1117"
+# A slightly lighter dark gray for sidebars and widgets
+secondaryBackgroundColor="#1A1D24"
+# Clean, readable white/light gray text
+textColor="#E6E8EB"
+# A vibrant, trustworthy corporate blue/teal for buttons and highlights
+primaryColor="#00A3FF"
+# A modern, clean font
+font="sans serif"
